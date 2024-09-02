@@ -1,30 +1,46 @@
-Discord Landing Page Clone
-Este projeto é uma reprodução responsiva da página inicial do site oficial do Discord, utilizando HTML e CSS. O objetivo é replicar o layout e a estrutura da página, garantindo uma experiência de usuário consistente em diferentes dispositivos.
+# Discord Landing Page Clone
 
-Funcionalidades
-Responsividade: O layout ajusta-se automaticamente para diferentes tamanhos de tela, incluindo desktops, tablets e dispositivos móveis.
-Header Dinâmico: Em dispositivos móveis, o menu de navegação é agrupado em um botão em cascata com interatividade JavaScript.
-Seções Alternadas: As seções da página apresentam imagens e textos intercalados, com ajustes específicos para garantir legibilidade em telas menores.
-Design Moderno: Segue a estética visual do Discord, utilizando cores, fontes e botões estilizados de acordo com o original.
-Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript (para interatividade do menu em dispositivos móveis)
-Estrutura do Projeto
-index.html: Estrutura HTML da página.
-styles.css: Estilização da página, incluindo regras de responsividade.
-script.js: Script para controlar o menu de navegação em dispositivos móveis.
-imgs/: Pasta contendo as imagens utilizadas no projeto.
-Como Utilizar
-Clone este repositório:
+Reprodução responsiva da página inicial do site oficial do Discord, desenvolvida com HTML e CSS. Este projeto visa replicar o design e a experiência do usuário oferecida pelo site original, com adaptações para diferentes dispositivos.
 
-bash
-Copiar código
-git clone https://github.com/MaykoRossi/discord-landing-page-clone.git
-Abra o arquivo index.html em seu navegador para visualizar a página.
+## Funcionalidades
 
-Contribuição
-Sinta-se à vontade para contribuir com melhorias ou correções. Basta abrir uma issue ou enviar um pull request.
+- **Responsividade Total:** O layout adapta-se automaticamente a diversos tamanhos de tela, desde desktops até dispositivos móveis.
+- **Menu Mobile:** O header se transforma em um menu de navegação em cascata com interatividade em JavaScript para dispositivos móveis.
+- **Layout Alternado:** As seções da página exibem imagens e textos alternados, otimizados para leitura em diferentes resoluções.
+- **Design Moderno:** Mantém a estética e a identidade visual do Discord, com cores, tipografia e botões característicos.
 
-Licença
+## Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript** (para interatividade do menu mobile)
+
+## Estrutura do Projeto
+
+- **`index.html`**: Marcações HTML da página.
+- **`styles.css`**: Estilos CSS, incluindo media queries para responsividade.
+- **`script.js`**: Script JavaScript para o menu mobile.
+- **`imgs/`**: Pasta com as imagens utilizadas no projeto.
+
+## Como Usar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/MaykoRossi/discord-landing-page-clone.git
+
+2. Navegue até a pasta do projeto:
+   ```bash
+   cd discord-landing-page-clone
+
+3. Abra o arquivo index.html no seu navegador:
+   ```bash
+   start index.html
+
+
+##Contribuindo
+Contribuições são bem-vindas! Se você deseja sugerir melhorias ou corrigir problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+##Licença
 Este projeto é licenciado sob a MIT License.
+      
+   
