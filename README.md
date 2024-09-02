@@ -37,10 +37,10 @@ Reprodução responsiva da página inicial do site oficial do Discord, desenvolv
    start index.html
 
 
-##Contribuindo
+## Contribuindo
 Contribuições são bem-vindas! Se você deseja sugerir melhorias ou corrigir problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-##Licença
+## Licença
 Este projeto é licenciado sob a MIT License.
       
    
